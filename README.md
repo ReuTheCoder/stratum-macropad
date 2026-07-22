@@ -1,6 +1,8 @@
 # Stratum 
 Stratum is a 9-key personal macropad creation with a rotary encoder, an OLED display and RGB backlighting under each key that uses QMK firmware. It supporteds five independent layers, allowing each key to perform a unique fucntion depending on the active layer. Stratum was made as a submission for Hackpad v5 through HackClub's Stardance Challenge.
 
+![Screenshot of overall macropad](assets/stratum-overall.png)
+
 ## Features:
 - 0.91 inch OLED display
 - EC11 Rotary encoders (push button diabled)
@@ -12,12 +14,16 @@ This is the PCB I made from Stratum; made in KiCAd 10.0. Most of the footprints 
 
 **Schematic:**
 
+![Screenshot of schematic](assets/stratum-schematic.png)
+
 **PCB:**
 
-## CAD Model
-This CAD model utilizes an integrated plate keyboard mount style. The rotary encoder cap was provided by HackClub.
+![Screenshot of PCB in KiCAd's footprint editor](assets/stratum-pcb.png)
 
-Right now, the case utilizes self-threading, as I knew I would not be unscrewing the macropad much after assembly. Realistically, I will need to add heatset inserts to ensure its long-term survival.
+## CAD Model
+This CAD model, designed in Fusion360, utilizes an integrated plate keyboard mount style - so it only has a top and bottom piece that are connected together with four 16mm M3 bolts that are screwed in from the bottom of the case. Right now, the case utilizes self-threading, as I knew I would not be unscrewing the macropad much after assembly. Realistically, I will need to add heatset inserts in a future version to ensure its long-term survival. The rotary encoder cap was provided by HackClub. 
+![Screenshot of CAD Model](assets/stratum-pullapart.png)
+
 
 ## Firmware Overview
 The name Stratum reflects this macropad's ability to swap between 5, distict layers through QMK firmware. This is done through a Settings mode in which you must hold down three center keys until the OLED displays a selection menu where you can use the rotary encoder to scroll through the 5 different layers. You select with the lower-right key. An overview of even more cool firmware features are:
@@ -29,7 +35,7 @@ The name Stratum reflects this macropad's ability to swap between 5, distict lay
 
 The 5 layers will likely be updated as I use the macropad and see what does and does not work. A future idea I definely have in mind is adding VIA support for quick macro fucntionality edits.
 
-##BOM:
+## Bill of Materials [BOM]:
 All the components needed for this macropad design:
 - 9x Cherry MX Switches
 - 9x DSA Keycaps
@@ -42,8 +48,3 @@ All the components needed for this macropad design:
 - 1x Case (2 printed parts + optional Rotary Encoder Cap)
   
 
-
-
-
-
-![Screenshot of overall macropad] (assets/placeholder.png)
