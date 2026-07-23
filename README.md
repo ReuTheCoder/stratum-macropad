@@ -51,4 +51,4 @@ All the components needed for this macropad design:
 ## Additional Notes
 This was my first time completely designing a piece of hardware from scratch. I used this project as an opportunity to learn PCB design through KiCad (both things I have never done before) and become accustomed to a new CAD program (before this, I had only used Tinkercad for 3D printing). This project also served as an introduction to QMK firmware. Although this project greatly increased my understanding of it (as I already had some experience coding arduino in C++), I still need more time writing QMK firmware to become comfortably familiar with it (I had a lot of external help when writing my firmware). Although it seemed to compile correctly, I have no idea if it will work as expected once I flash it to the RP2040.
 
-Thank you so much to the organizers of HackClub for this wonderful opportunity
+Thank you so much to the organizers of HackClub for this wonderful opportunity!
