@@ -33,6 +33,7 @@ The name Stratum reflects this macropad's ability to swap between 5 distinct lay
 - The OLED that displays current layer, settings menu and a transition animation
 - RGB Backlights change color on each layer
 - A sleep and brightness control in settings
+- Rotary encoder volume control
 
 The 5 layers will likely be updated as I use the macropad and see what does and does not work. A future idea I have in mind is adding VIA support for quick macro functionality edits.
 
