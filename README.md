@@ -78,4 +78,4 @@ Layer 4 -  Media <br>
 &emsp;     K4 Previous  |  K5 Next  | K6 Mute <br>
 &emsp;     K7 Spotify | K8 Youtube | K9 Libby (Audiobook App) <br>
 
-Thank you so much to the organizers of [Stardance](https://stardance.hackclub.com/missions/hackpad) and HackClub for this wonderful hardware exploration opportunity!
+Thank you so much to @qcoral and the rest of the organizers of [Stardance](https://stardance.hackclub.com/missions/hackpad) and HackClub for this wonderful hardware exploration opportunity!
