@@ -2,6 +2,7 @@
 Stratum is a 9-key personal macropad creation with a rotary encoder, an OLED display and RGB backlighting under each key that uses QMK firmware. It supports five independent layers, allowing each key to perform a unique function depending on the active layer. Stratum was made as a submission for [Hackpad v5](https://hackpad.hackclub.com/) through HackClub's Stardance Challenge.
 
 ![Screenshot of overall macropad](assets/stratum-overall.png)
+![Screenshot of final macropad build](assets/stratum-build.jpeg)
 
 ## Features:
 - 0.91 inch OLED display
